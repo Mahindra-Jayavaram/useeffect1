@@ -1,0 +1,99 @@
+{
+  "groceries": [
+    {
+      "title": "Potatos",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "title": "Rice",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "Dal",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "mangoes",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "Magic movements",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "Carrots",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "Beet roots",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "Maggiee",
+      "purchased": false,
+      "id": 8
+    },
+    {
+      "title": "Popcorn",
+      "purchased": false,
+      "id": 9
+    },
+    {
+      "title": "Pizaa",
+      "purchased": false,
+      "id": 10
+    },
+    {
+      "title": "Kurkure",
+      "purchased": false,
+      "id": 11
+    },
+    {
+      "title": "Lays",
+      "purchased": false,
+      "id": 12
+    },
+    {
+      "title": "Lays",
+      "purchased": false,
+      "id": 13
+    },
+    {
+      "title": "Dairy Milk",
+      "purchased": false,
+      "id": 14
+    },
+    {
+      "title": "Coconut",
+      "purchased": false,
+      "id": 15
+    },
+    {
+      "title": "",
+      "purchased": false,
+      "id": 16
+    },
+    {
+      "title": "Onions",
+      "purchased": false,
+      "id": 17
+    },
+    {
+      "title": "",
+      "purchased": false,
+      "id": 18
+    },
+    {
+      "title": "",
+      "purchased": false,
+      "id": 19
+    }
+  ]
+}
